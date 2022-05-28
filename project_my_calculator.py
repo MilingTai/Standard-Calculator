@@ -32,7 +32,7 @@ def clear():  #clear display space, and show 0.
 #2-4.										
 win =tk.Tk()
 win.title("Calculator")
-win.geometry("340x360") #iphone 8 interface
+win.geometry("340x360") 
 win.resizable(0,0)
 win.iconbitmap(r"apple.ico")
 
